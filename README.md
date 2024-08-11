@@ -2,7 +2,7 @@
 
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/sujaltangde/JobLane.git 
+git clone https://github.com/AliAsgarKazi/Job-Portal.git 
 
 Change into the frontend directory:
 cd client
